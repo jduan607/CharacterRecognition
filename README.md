@@ -4,7 +4,7 @@ Project for STAT479: Deep Learning (Spring 2019) at University of Wisconsin-Madi
 ## Background
 The recognition and classification of images is a very popular subject in computer science studies and other related fields. In this
 project, we will apply deep learning algorithms to develop a method to classify English letters using different types of
-images on both the uppercase and lowercase of all 26 English letters. This project attempts to find a classification model that could generalizing well for identifying every English character from different types of images.
+images on both the uppercase and lowercase of all 26 English letters. This project attempts to find a classification model that could generalizing well for identifying every English character from different types of images. The images are obtained from the [Chars47K dataset](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/#download).
 
 ## Deep Learning Models
 + Multilayer Perceptron
