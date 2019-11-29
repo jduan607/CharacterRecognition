@@ -7,11 +7,9 @@ project, we will apply deep learning algorithms to develop a method to classify 
 images on both the uppercase and lowercase of all 26 English letters. This project attempts to find a classification model that could generalizing well for identifying every English character from different types of images.
 
 ## Deep Learning Models
-|Model                |45-class|52-class
-|---------------------|--------
-|Multilayer Perceptron|
-|ResNet-50            |
-|Inception-v3         |
++ Multilayer Perceptron
++ ResNet-50            
++ Inception-v3         
 
 ## Software
 + Python for implementing and train our models
