@@ -1,4 +1,4 @@
-# STAT479
+# STAT479 Project
 Project for STAT479: Deep Learning (Spring 2019) at University of Wisconsin-Madison
 
 ## Background
