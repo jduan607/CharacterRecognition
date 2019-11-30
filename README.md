@@ -1,4 +1,4 @@
-# STAT479 Project
+# English Character Recognition Using Neural Network
 Project for STAT479: Deep Learning (Spring 2019) at University of Wisconsin-Madison
 
 ## Background
