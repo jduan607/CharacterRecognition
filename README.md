@@ -14,7 +14,7 @@ images on both the uppercase and lowercase of all 26 English letters. This proje
 + Inception-v3         
 
 ## Software
-+ *PyTorch* for implementing and train our models
++ *PyTorch* for implementing and training our models
 + *R* for cleaning the dataset and analyzing the output predictions of models
 
 ## Result
